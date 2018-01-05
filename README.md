@@ -25,5 +25,9 @@ I did apply my learnings and even took it quite a bit further, by building a Pow
 Most of my career has been built using Microsoft technologies. I've developed in SQL server and ASP, ASP.NET, C#, EF, WebAPI, etc... for almost 20 years. Unfortunately I at this time I don't have anything to show for it. So, my plan is to spend time in the next couple of weeks to get this section filed out with some examples of my work (obfuscated) and/or creating new side projects to show my expertise.
 
 
+## Ardunio
 
+I've been dabbling in my spare time with home electronics projects and I've used the ardunio for more of the real-time serious projects.
 
+* The first project I did with an ardunio was my [automated cat food feeder](https://github.com/jb1t/Arduino/tree/master/catfeeder).
+* [LED Game](https://github.com/jb1t/Arduino/tree/master/led_game)
